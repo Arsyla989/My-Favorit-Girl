@@ -1,0 +1,6 @@
+{
+  "name": "Hallow Miss Ikaa",
+  "description": "A cute, modern, and romantic pink pastel scrapbook and memory web app built specially for Ikaa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
